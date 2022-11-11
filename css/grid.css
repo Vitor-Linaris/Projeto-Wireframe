@@ -1,0 +1,13 @@
+/* grid (alinhado ao centro com respiro nas laterais para dispositivos moveis */
+.container {
+    width: 100%;
+    max-width: 1246px;
+    margin: 0 auto;
+    padding: 0px 15px;
+}
+
+/* fluido (alinhado a esquerda com respiro) */
+.container-fluid { 
+    width: 100%;
+    padding: 0px 15px;
+}
